@@ -1,3 +1,4 @@
+![alt](https://github.com/steffenglock/Paperless-ngx-Export-/blob/main/screenshot.png)
 # Paperless-ngx Export (engl. version)
 
 A lightweight web interface for querying, filtering, and exporting document metadata from **Paperless-ngx**.
